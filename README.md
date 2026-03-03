@@ -3,6 +3,7 @@
 
 Vous disposez de ressources dans `src/main/resources`.
 
+
 A l'aide de celles ci, réalisez un jeu de puzzle.
 
 
@@ -16,7 +17,7 @@ Prendre une image en 4 x 4 : `duchess_4x4_split.zip` depuis le dossier `enonce`
 
 ![](assets/puzzle_example.png)
 
-![](assets/tp-puzzle-sample.mp4)
+![tp-puzzle-sample.gif](assets/tp-puzzle-sample.gif)
 
 ### Bonus
 
